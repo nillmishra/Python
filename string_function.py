@@ -4,7 +4,7 @@ print(len(story))
 print(story.endswith("sdqhdf"))
 print(story.count("a"))
 print(story.count("wa"))
-print(story.capitalize())#dirst word ko capitalize kar k deta hai
+print(story.capitalize())#first word ko capitalize kar k deta hai
 print(story.find("nill"))
 print(story.find("nili"))
 print(story.find("once"))
